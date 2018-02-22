@@ -9,4 +9,4 @@ Presentation of text mining : applications, pre-processing, TF-IDF, LSA and word
 
 ## Example
 
-![alt tag](https://github.com/Guepardow/Introduction-to-text-mining/blob/master/results/tfidf_pca_title.png)
+![alt tag](https://github.com/Guepardow/Introduction-to-text-mining/blob/master/doc/tfidf_pca_title.png)
